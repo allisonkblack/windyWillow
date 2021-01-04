@@ -9,6 +9,9 @@ Windy Willow obtains near real-time data from a mock-up wind generator API and t
 ### windConsumer output table 
 By setting thresholds on the wind generated in megawatts (MW), an action is produced in the output to guide a business decision. The price_euros column gives the real-time market price of energy from Red Electrica. The potential_revenue column multiplies the wind column and price_euros columns. 
 
+
+![image](https://user-images.githubusercontent.com/65284472/103562042-ba374500-4eba-11eb-830a-9e19f405f903.png)
+
 # How to run files 
 
 Open 3 terminals, one for each of the python scripts: windProducer, windConsumer, and forecastProducer. These scripts run in Python 2.7. 
@@ -21,6 +24,5 @@ The green window in the screenshot is forecastProducer, which streams Windy Will
 
 The bottom right corner of the screenshot shows a Tableau dashboard that is reading the streaming data from text files and producing live visuals.  
 
-![image](https://user-images.githubusercontent.com/65284472/103562042-ba374500-4eba-11eb-830a-9e19f405f903.png)
 
 
