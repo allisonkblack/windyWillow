@@ -9,8 +9,6 @@ Windy Willow obtains near real-time data from a mock-up wind generator API and t
 ## Dependencies 
 python 2.7
 
-![image](https://user-images.githubusercontent.com/65284472/103562042-ba374500-4eba-11eb-830a-9e19f405f903.png)
-
 ## Executing Program 
 * open 3 terminals, one for each of the python scripts
 * first terminal window: 
