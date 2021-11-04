@@ -4,7 +4,7 @@ Windy Willow is a mock-up wind farm that uses data from wind generation and elec
 # Project overview
 ### What and why?
 
-Windy Willow obtains near real-time data from a mock-up wind generator API and the REData API from Red Electrica, a Spansih corporation which operates the national electricity grid in Spain. Windy Willow uses this data to make better decisions on when and to whom to sell their wind power, as well as when to maintain their wind turbines. 
+Windy Willow obtains near real-time data from a mock-up wind generator API and the REData API from Red Electrica, a Spansih corporation which operates the national electricity grid in Spain. Windy Willow uses this data to make better decisions on when and to whom to sell their wind power, as well as when to perform maintainance their wind turbines. 
 
 ## Dependencies 
 python 2.7
